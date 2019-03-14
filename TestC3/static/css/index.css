@@ -1,0 +1,74 @@
+
+        p.m2{
+            position: absolute;
+            left: 600px;
+        }
+        p.m1{
+             position: absolute;
+            left: 30px;
+        }
+        p.m3{
+            position: absolute;
+            top:65%;
+            left:30px;
+        }
+        p.m4{
+            position: absolute;
+            top:100%;
+            left:30px;
+        }
+        p.m5{
+            position: absolute;
+            top:100%;
+            left:30px;
+        }
+         p.m6{
+            position: absolute;
+
+            left:30px;
+        }
+          p.m7{
+            position: absolute;
+            top:125%;
+            left:30px;
+        }
+        #ph1{
+            position: absolute;
+            top:60%;
+        }
+        #ph2{
+            position: absolute;
+            top:85%;
+        }
+        #ph3{
+             position: absolute;
+            top:115%;
+        }
+        #ph4{
+             position: absolute;
+             top: 165%;
+        }
+        #ph5{
+             position: absolute;
+             top: 230%;
+        }
+        #ph6{
+             position: absolute;
+             top: 290%;
+             right:40%;
+        }
+        #ph7{
+             position: absolute;
+             top:10%;
+             right:40%;
+        }
+        #ph8{
+             position: absolute;
+             top:10%;
+             right:45%;
+        }
+        #ph9 {
+             position: absolute;
+             top:10%;
+             right:50%;
+        }
